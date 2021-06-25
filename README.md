@@ -1,0 +1,32 @@
+# [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
+## [S15 T01: Unsupervised Classification](https://github.com/jesussantana/Advanced-Machine-Learning/blob/main/notebooks/S15_T01_Unsupervised_Classification)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
+[![wakatime](https://wakatime.com/badge/github/jesussantana/Unsupervised-Classification.svg)](https://wakatime.com/badge/github/jesussantana/Unsupervised-Classification)  
+
+### Description
+
+Let’s practice and become familiar with clustering algorithms.
+
+
+### Level 1  
+
+- Exercise 1: 
+  - Classify the different flights using the K-means algorithm.
+
+### Level 2
+
+- Exercise 2: 
+  - Classify the different flights using the hierarchical clustering algorithm.
+
+### Level 3
+
+- Exercise 3: 
+  - Calculate clustering performance using a parameter such as silhouette.
+
+
+### Targets
+
+- Kmeans
+- Hierarchical Clustering
