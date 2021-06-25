@@ -1,5 +1,5 @@
 # [IT Academy - Data Science with Python](https://www.barcelonactiva.cat/es/itacademy)
-## [S15 T01: Unsupervised Classification](https://github.com/jesussantana/Advanced-Machine-Learning/blob/main/notebooks/S15_T01_Unsupervised_Classification)
+## [S15 T01: Unsupervised Classification](https://github.com/jesussantana/Advanced-Machine-Learning/blob/main/notebooks/S15_T01_Unsupervised_Classification.ipynb)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
